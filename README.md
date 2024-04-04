@@ -18,7 +18,7 @@ Household Builder is a simple web application for capturing information about a 
 
 ## Usage
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/asaki222/sample-proj.git`
 2. Open the `index.html` file in your web browser.
 3. Fill in the form fields for age, relationship, and smoking status.
 4. Click the "Add" button to add a household member.
